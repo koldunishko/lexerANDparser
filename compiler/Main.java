@@ -1,5 +1,3 @@
-package org.coderistan.compiler;
-
 import java.util.Queue;
 
 public class Main {
